@@ -16,3 +16,7 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### Groovy libraries ###
+/lib/
+*.jar
