@@ -6,4 +6,5 @@ Copy the script content and paste it in the hac scripting language console in hy
 
 ## List of scripts
 
-- [001-list-files.groovy](001-list-files.groovy): List all files in the hybris server
+- [001-list-files.groovy](/scripts/001-list-files.groovy): List all files in the hybris server
+- [002-list-files-executing-a-command.groovy](/scripts/002-list-files-executing-a-command.groovy): Execute a command to list files
