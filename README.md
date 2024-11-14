@@ -12,3 +12,12 @@ Copy the script content and paste it in the hac scripting language console in hy
 - [004-execute-flexible-search-query.groovy](/scripts/004-execute-flexible-search-query.groovy): Execute flexible search query
 - [005-retrieve-a-item-by-pk.groovy](/scripts/005-retrieve-a-item-by-pk.groovy): Retrieve a item by pk
 - [006-execute-raw-sql-query.groovy](/scripts/006-execute-raw-sql-query.groovy): Execute raw sql query
+- [007-raw-query-listing-specific-property.groovy](/scripts/007-raw-query-listing-specific-property.groovy): Raw query listing specific property
+- [008-modifying-objects.groovy](/scripts/008-modifying-objects.groovy): Modifying objects, in this case, search for medias without mime and set it
+- [009-removing-items.groovy](/scripts/009-removing-items.groovy): Removing items
+- [010-sending-email.groovy](/scripts/010-sending-email.groovy): Sending email
+- [011-importing-impex.groovy](/scripts/011-importing-impex.groovy): Importing impex
+- [012-print-all-properties-of-an-object.groovy](/scripts/012-print-all-properties-of-an-object.groovy): Print all properties of an object
+- [013-print-all-methods-of-an-object.groovy](/scripts/013-print-all-methods-of-an-object.groovy): Print all methods of an object
+- [014-show-hybris-type-tree.groovy](/scripts/014-show-hybris-type-tree.groovy): Show hybris type tree
+- [015-hybris-type-stats.groovy](/scripts/015-hybris-type-stats.groovy): Hybris type stats
