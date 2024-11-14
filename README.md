@@ -1,4 +1,4 @@
-# hybris-groovy-rocks
+# hybris-groovy-rocks-scripts
 This is a simple list of groovy scripts that it's used to automate some tasks in hybris.
 
 ## How to use
