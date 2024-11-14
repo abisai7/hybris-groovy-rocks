@@ -1,0 +1,1 @@
+println "tail -n 50 ../../../../log/tomcat/console.log".execute().text
