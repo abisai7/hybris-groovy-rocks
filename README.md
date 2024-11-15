@@ -21,3 +21,8 @@ Copy the script content and paste it in the hac scripting language console in hy
 - [013-print-all-methods-of-an-object.groovy](/scripts/013-print-all-methods-of-an-object.groovy): Print all methods of an object
 - [014-show-hybris-type-tree.groovy](/scripts/014-show-hybris-type-tree.groovy): Show hybris type tree
 - [015-hybris-type-stats.groovy](/scripts/015-hybris-type-stats.groovy): Hybris type stats
+- [016-set-log-level-in-any-class.groovy](/scripts/016-set-log-level-in-any-class.groovy): Set log level in any class
+- [017-print-beans-of-a-context.groovy](/scripts/017-print-beans-of-a-context.groovy): Print beans of a context
+- [018-executing-a-method-of-a-controller.groovy](/scripts/018-executing-a-method-of-a-controller.groovy): Executing a method of a controller
+- [019-print-all-urls-from-a-context.groovy](/scripts/019-print-all-urls-from-a-context.groovy): Print all urls from a context
+- [020-print-all-web-contexts.groovy](/scripts/020-print-all-web-contexts.groovy): Print all web contexts
