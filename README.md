@@ -26,3 +26,6 @@ Copy the script content and paste it in the hac scripting language console in hy
 - [018-executing-a-method-of-a-controller.groovy](/scripts/018-executing-a-method-of-a-controller.groovy): Executing a method of a controller
 - [019-print-all-urls-from-a-context.groovy](/scripts/019-print-all-urls-from-a-context.groovy): Print all urls from a context
 - [020-print-all-web-contexts.groovy](/scripts/020-print-all-web-contexts.groovy): Print all web contexts
+
+## Credits
+This is a collection of groovy scripts for SAP Commerce from https://hybrismart.com/tools/
